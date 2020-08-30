@@ -1,10 +1,11 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" /></a>
 <h3 align="center">Welcome to my page!</h3>
 
 <!-- Profile viewer count start-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=octocat01" alt="octocat01" /> </p> -->
 <!-- Profile viewer count end-->
+
+<img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" />
 
 - 🔭 I’m currently working on **some of my side projects :stuck_out_tongue_winking_eye:**
 
