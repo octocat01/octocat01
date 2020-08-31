@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some of my side projects :stuck_out_tongue_winking_eye:**
 
-- 👯 I’m looking to collaborate on **anything free and open source**  :smiley:
+- 👯 I’m looking to collaborate on **open source projects**  :smiley:
 
 - 👨‍💻 All of my projects are available at [octocat01][octocat01] :octocat:
 
